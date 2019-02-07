@@ -1,0 +1,88 @@
+I1 - LDL Lumen
+2 - LDL Intima
+3 - PB-LDL
+4 - Proteoglycans
+5 - Free Oxygen Radicals
+6 - PLA2
+7 - SMase
+8 - Lipoprotein Lipase
+9 - oxLDL
+10 - HDL Lumen
+11 - HDL Intima
+12 - PB-HDL
+13 - oxHDL
+14 - MCP-1 Lumen
+15 - Endothelial Cells
+16 - Monocytes Lumen
+17 - Monocytes Intima
+18 - Foam Cells
+19 - IFN-Gamma
+20 - MCSF
+21 - MCP-1 Intima
+22 - Macrophages
+23 - CXCL9
+24 - CXCL10
+25 - CXCL11
+26 - T-Cell Lumen
+27 - T-Cell Intima
+28 - IL1
+29 - IL2
+30 - IL4
+31 - IL5
+32 - IL6
+33 - IL10
+34 - IL12
+35 - IL18
+36 - IL21
+37 - IL33
+38 - TGF-Beta
+39 - Th1 Cells
+40 - Th2 Cells
+41 - Th17 Cells
+42 - TFH Cells
+43 - TNK Cells
+44 - Treg Cells
+45 - TNF-Alpha
+46 - MMP1
+47 - MMP3
+48 - MMP9
+49 - MMP13
+50 - TIMP1
+51 - TIMP2
+52 - TIMP3
+53 - TIMP4
+54 - Chymase
+55 - Tryptase
+56 - PDGF
+57 - EGF
+58 - Elastin
+59 - Collagen
+60 - B1 Cells
+61 - B2 Cells
+62 - Dendritic Cells
+63 - Neutrophil
+64 - Mast Cells
+65 - SMCs
+66 - Platelets
+67 - IL1B Lumen
+68 - CXCL2
+69 - ABCA1
+70 - ABCG1
+71 - CL-HDL Intima
+72 - CL-HDL Liver
+73 - Empty HDL Liver
+74 - Empty
+75 - Emtpy
+76 - Bile Acids
+77 - Chol Intestine
+78 - Chylomicron Intestine
+79 - Chylomicron Lumen
+80 - Chylomicron Remnants
+81 - Lipoprotein Lipase
+82 - Cholesterol Liver
+83 - VLDL Liver
+84 - VLDL Lumen
+85 - IDL Lumen
+86 - TGs Lumen
+87 - FFAs
+88 - CXCL2 Intima
